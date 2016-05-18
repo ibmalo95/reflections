@@ -1,0 +1,33 @@
+Viewing a diff between two versions of a file helped when looking for a bug
+because it allowed me to see the differences between the two versions of 
+code without having to manually look for them. Diff gives me a smaller amount of code to look for bugs decreasing the time it would have taken me
+otherwise.
+
+Having easy access to the complete history of a file will make me a more
+efficient programmer because it will allow me to catch little mistakes as
+well as see what worked previously that I may want to go back to. For
+example, on my final project last semester a lot of the time I had to
+remember or copy code that I wanted to go back to when something I tried
+afterword didn't work. By having the entire history of a project I avoid having to do this process.
+
+A pro of manually choosing when you commit is that you can logically
+save whenever you want. This disallows the possibility of having multiple
+changes occur within one commit.
+A con of manually choosing when you commit is that you may forget to 
+commit. This would possibly result in the issue mentioned above.
+
+I think that Git allows saving multiple files in one commit because a lot 
+of the time it is dealing with code that is interelated, while something
+like Google Docs can span a wide variety of file types. 
+
+Can use git log and git diff to see changes that have been made and to go
+back to code that worked.
+
+Version control could make me more confident in testing code that could 
+cause a bug because you know you can always go back to it.
+
+I want to try using git for programs that introduce complex problems
+
+git init initializes or creates a new repository
+ls -a see what files are available
+git status see which files have changed since the last commit
