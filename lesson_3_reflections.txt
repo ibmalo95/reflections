@@ -3,3 +3,7 @@ You would want to us a remote repository in order to back up your work or if you
 to contribute to it. When your work is only local you have the potential of losing it if it's
 not backed up somehow and furthermore no one else can contribute to it unless you give them the 
 information to clone it themselves. 
+
+Why might you want to always pull changes rather than having Git
+automatically stay up-to-date with your remote repository?
+There might be some things added to GitHub that you don't want.
